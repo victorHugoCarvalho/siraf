@@ -26,8 +26,5 @@ var app = {
     },
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
-    },
-    receivedEvent: function(id) {
-    	document.write("Aplicativo em Construção!!");
     }
 };

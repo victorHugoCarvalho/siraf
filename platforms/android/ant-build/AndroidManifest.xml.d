@@ -1,2 +1,2 @@
-C:\Users\Victor hugo\Desktop\cordova\siraf\platforms\android\ant-build\AndroidManifest.xml : \
-C:\Users\Victor hugo\Desktop\cordova\siraf\platforms\android\AndroidManifest.xml \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/AndroidManifest.xml : \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/AndroidManifest.xml \
