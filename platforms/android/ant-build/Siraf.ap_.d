@@ -29,6 +29,7 @@
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/_where-is-www.txt \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/banho.html \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/contato.html \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/cordova.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/cordova_plugins.js \
@@ -38,6 +39,7 @@
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/img \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/index.html \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/texto.html \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/css/bootstrap.css \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/css/bootstrap.min.css \
@@ -90,8 +92,16 @@
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/img/ipad.png \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/img/logo.png \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/img/phones.png \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/bluetooth.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/bootstrap.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/bootstrap.min.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/index.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/jquery-1.11.0.js \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/systemControl.js \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.bluetoothserial \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.rfduino \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.bluetoothserial/www \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.bluetoothserial/www/bluetoothSerial.js \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.rfduino/www \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.rfduino/www/rfduino.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/AndroidManifest.xml \

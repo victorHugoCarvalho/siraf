@@ -17,6 +17,7 @@
  * under the License.
  */
 var app = {
+
     // Application Constructor
     initialize: function() {
         this.bindEvents();
@@ -26,8 +27,5 @@ var app = {
     },
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
-    },
-    // receivedEvent: function(id) {
-    // 	document.write("Aplicativo em Construção!!");
-    // }
+    }
 };

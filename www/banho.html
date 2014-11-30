@@ -26,17 +26,15 @@
             <div class="topcoat-navigation-bar__item center full">
                 <h1 class="topcoat-navigation-bar__title">LED</h1>
             </div>
+            <div id="statusDiv"></div>
         </div>
-        <div id="connectionScreen">
-            <ul id="deviceList" class="topcoat-list">      
-            </ul>
-            <div style="margin: 10px">            
-                <button class="topcoat-button" id="refreshButton">Refresh</button>
-            </div>            
+        <button id="btnStart" hidden="true" onclick="this.click">Inicar Troca</button>
+        <br><div id="messageDiv"></div>
+        <br><div id="waterDiv"hidden="true">
+            <li>Foram economizados </li>
+            <li id="liters"></li>
+            <li> litros de água</li>
         </div>
-        <div><button class="topcoat-button--large" id="disconnectButton">Disconnect</a></div>
-        <div id="messageDiv">        
-
         <script src="js/jquery-1.11.0.js"></script>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/bluetooth.js"></script>

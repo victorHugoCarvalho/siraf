@@ -1,4 +1,13 @@
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes.dex : \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerial$1.class \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerial.class \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerialService$AcceptThread.class \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerialService$ConnectedThread.class \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerialService$ConnectThread.class \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerialService.class \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/megster/cordova/rfduino/Peripheral.class \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/megster/cordova/rfduino/RFduinoPlugin$1.class \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/megster/cordova/rfduino/RFduinoPlugin.class \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/siraf/BuildConfig.class \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/siraf/R$attr.class \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/siraf/R$drawable.class \
@@ -6,4 +15,5 @@
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/siraf/R$xml.class \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/siraf/R.class \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/com/siraf/Siraf.class \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/classes/org/apache/cordova/api/Dummy.class \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/ant-build/dexedLibs/classes-9d4ac26d6069889afca3125a9f3d84f8.jar \
