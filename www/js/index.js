@@ -28,14 +28,15 @@ var app = {
     onDeviceReady: function() {
         var macAddress = "00:13:06:13:90:34";
 
-        statusLi.innerText = "Conectando...";
+        statusDiv.innerText = "Conectando...";
         bluetoothSerial.disconnect();
         bluetoothSerial.connect(macAddress, app.onConnect, app.onDisconnet);
     },
     onConnect: function() {
-        statusLi.innerText = "Bluetooth Conectado";
+        statusDiv.innerText = "Bluetooth Conectado";
+        buttonsUl.hidden = false;
     },
     onDisconnect: function() {
-        statusLi.innerText = "Bluetooth Desconctado";
+        statusDiv.innerText = "Bluetooth Desconctado";
     },
 };
