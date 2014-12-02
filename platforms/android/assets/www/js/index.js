@@ -26,6 +26,16 @@ var app = {
         document.addEventListener('deviceready', this.onDeviceReady, false);
     },
     onDeviceReady: function() {
-        app.receivedEvent('deviceready');
-    }
+        var macAddress = "00:13:06:13:90:34";
+
+        statusLi.innerText = "Conectando...";
+        bluetoothSerial.disconnect();
+        bluetoothSerial.connect(macAddress, app.onConnect, app.onDisconnet);
+    },
+    onConnect: function() {
+        statusLi.innerText = "Bluetooth Conectado";
+    },
+    onDisconnect: function() {
+        statusLi.innerText = "Bluetooth Desconctado";
+    },
 };

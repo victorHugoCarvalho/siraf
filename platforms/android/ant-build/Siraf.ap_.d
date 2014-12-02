@@ -40,6 +40,7 @@
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/index.html \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/programarBanho.html \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/texto.html \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/css/bootstrap.css \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/css/bootstrap.min.css \
@@ -97,6 +98,7 @@
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/bootstrap.min.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/index.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/jquery-1.11.0.js \
+/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/jquery.maskedinput.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/systemControl.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.bluetoothserial \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.rfduino \
