@@ -118,9 +118,7 @@
       finalDate.push(Number(hour));
       finalDate.push(Number(minute));
 
-      for(i=0; i<1; i++) {
-        bluetoothSerial.write("n" + finalDate + "\n");
-      }	 
+      bluetoothSerial.write("n" + finalDate + "\n");
 
       bluetoothSerial.subscribe("\n", function(read) {
           if(Number(read) == 9) {

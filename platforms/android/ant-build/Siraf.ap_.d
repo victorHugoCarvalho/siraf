@@ -99,7 +99,6 @@
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/index.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/jquery-1.11.0.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/jquery.maskedinput.js \
-/Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/js/programar.js \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.bluetoothserial \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.rfduino \
 /Users/winstein/Documents/UnB/pi2/siraf/platforms/android/assets/www/plugins/com.megster.cordova.bluetoothserial/www \
